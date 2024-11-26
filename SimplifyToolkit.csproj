@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>SimplifyToolkit</AssemblyName>
+    <PackageId>SimplifyToolkit</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>BeratSJ</Authors>
+    <Description>A library that simplifies complex operations.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/BeratSJ/SimplifyToolkit</RepositoryUrl>
+</PropertyGroup>
+
+
+</Project>
