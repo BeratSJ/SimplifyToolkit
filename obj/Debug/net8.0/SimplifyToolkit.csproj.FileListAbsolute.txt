@@ -1,0 +1,12 @@
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\bin\Debug\net8.0\SimplifyToolkit.deps.json
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\bin\Debug\net8.0\SimplifyToolkit.dll
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\bin\Debug\net8.0\SimplifyToolkit.pdb
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\obj\Debug\net8.0\SimplifyToolkit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\obj\Debug\net8.0\SimplifyToolkit.AssemblyInfoInputs.cache
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\obj\Debug\net8.0\SimplifyToolkit.AssemblyInfo.cs
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\obj\Debug\net8.0\SimplifyToolkit.csproj.CoreCompileInputs.cache
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\obj\Debug\net8.0\SimplifyToolkit.sourcelink.json
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\obj\Debug\net8.0\SimplifyToolkit.dll
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\obj\Debug\net8.0\refint\SimplifyToolkit.dll
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\obj\Debug\net8.0\SimplifyToolkit.pdb
+D:\Yazılımlarım\Repos\BeratSJ\SimplifyToolkit\obj\Debug\net8.0\ref\SimplifyToolkit.dll

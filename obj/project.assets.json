@@ -14,11 +14,11 @@
   "project": {
     "version": "0.0.1",
     "restore": {
-      "projectUniqueName": "D:\\Yazılımlarım\\Repos\\BeratSJ\\lamp-process\\SimplifyToolkit.csproj",
+      "projectUniqueName": "D:\\Yazılımlarım\\Repos\\BeratSJ\\SimplifyToolkit\\SimplifyToolkit.csproj",
       "projectName": "SimplifyToolkit",
-      "projectPath": "D:\\Yazılımlarım\\Repos\\BeratSJ\\lamp-process\\SimplifyToolkit.csproj",
+      "projectPath": "D:\\Yazılımlarım\\Repos\\BeratSJ\\SimplifyToolkit\\SimplifyToolkit.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Yazılımlarım\\Repos\\BeratSJ\\lamp-process\\obj\\",
+      "outputPath": "D:\\Yazılımlarım\\Repos\\BeratSJ\\SimplifyToolkit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

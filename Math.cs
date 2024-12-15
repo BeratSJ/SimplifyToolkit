@@ -1,10 +1,4 @@
-﻿using System;
-using System.Diagnostics;
-using System.Numerics;
-using System.Runtime.Remoting;
-using System.Security.Cryptography.X509Certificates;
-
-namespace lamp_process
+﻿namespace SimplifyToolkit
 {
     public class Math
     {

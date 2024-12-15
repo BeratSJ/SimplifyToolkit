@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeratSJ")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A library that simplifies complex operations.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+2eab256c3e262ac82ae85b1fb705b1a1fc16f4bd")]
