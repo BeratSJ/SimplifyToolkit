@@ -5,8 +5,8 @@ namespace SimplifyToolkit
 {
     public interface IConverter
     {
-        string Encrypt(string input); // Şifreler veya dönüştürür
-        string Decrypt(string input); // Şifrelenmiş/dönüştürülmüş veriyi geri çevirir
+        string Encrypt(string input);
+        string Decrypt(string input);
     }
 
     public class Base64Converter : IConverter
