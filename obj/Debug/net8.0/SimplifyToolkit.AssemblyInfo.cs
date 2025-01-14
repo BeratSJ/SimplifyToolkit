@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A library that simplifies complex operations.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+2eab256c3e262ac82ae85b1fb705b1a1fc16f4bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+8987919887d28a1521140b993231c9555a808e07")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimplifyToolkit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimplifyToolkit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]

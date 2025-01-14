@@ -24,6 +24,7 @@ public class DateManager
     public int Month => month;
     public int Day => day;
 
+ 
     public static bool IsLeapYear(int year)
     {
         return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
@@ -36,6 +37,7 @@ public class DateManager
         return DaysInMonths[month - 1];
     }
 
+    
     public void NextDay()
     {
         day++;
@@ -51,6 +53,7 @@ public class DateManager
         }
     }
 
+    
     public void PreviousDay()
     {
         day--;
@@ -66,6 +69,34 @@ public class DateManager
         }
     }
 
+   
+    public DateTime ToDateTime()
+    {
+        return new DateTime(year, month, day);
+    }
+
+  
+    public static DateManager FromDateTime(DateTime dateTime)
+    {
+        return new DateManager(dateTime.Year, dateTime.Month, dateTime.Day);
+    }
+
+   
+    public override bool Equals(object obj)
+    {
+        if (obj is DateManager other)
+        {
+            return year == other.year && month == other.month && day == other.day;
+        }
+        return false;
+    }
+
+    public override int GetHashCode()
+    {
+        return HashCode.Combine(year, month, day);
+    }
+
+  
     public override string ToString()
     {
         return $"{day:D2}.{month:D2}.{year}";

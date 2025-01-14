@@ -28,11 +28,24 @@ namespace SimplifyToolkit
 
     public class UnixTimeHelper
     {
+        
         public long DateTimeToUnix(DateTime dateTime)
         {
             return new DateTimeOffset(dateTime).ToUnixTimeSeconds();
         }
 
+        
+        public long DateTimeToUnix(DateManager dateManager)
+        {
+            if (dateManager == null)
+                throw new ArgumentNullException(nameof(dateManager));
+
+            
+            DateTime dateTime = new DateTime(dateManager.Year, dateManager.Month, dateManager.Day);
+            return DateTimeToUnix(dateTime); 
+        }
+
+        
         public DateTime UnixToDateTime(long unixTime)
         {
             return DateTimeOffset.FromUnixTimeSeconds(unixTime).UtcDateTime;
