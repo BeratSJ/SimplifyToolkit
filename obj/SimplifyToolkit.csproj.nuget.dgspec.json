@@ -27,7 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "D:\\Yazılımlarım\\Repos\\BeratSJ\\lamp-process\\lamp-process\\bin\\Debug\\net8.0\\": {},
+          "D:\\Yazılımlarım\\Repos\\BeratSJ\\SimplifyToolkit\\bin\\Debug\\net8.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
